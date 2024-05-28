@@ -1,0 +1,21 @@
+.name {
+    color: white;
+}
+
+.table-container {
+    position: absolute;
+    max-height: 50% !important;
+}
+
+.search-table {
+    background-color: black;
+}
+
+.search-image {
+    height: 100px;
+    width: auto;
+}
+
+.name {
+    margin-left: 2% !important;
+}

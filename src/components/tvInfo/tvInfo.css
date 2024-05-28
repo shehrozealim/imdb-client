@@ -1,0 +1,94 @@
+.home-page {
+  width: 90%;
+  margin: auto;
+}
+
+.series-title {
+  color: white;
+}
+
+.series-subtitle {
+  color: white;
+}
+
+.rating-text {
+  color: white;
+  margin-top: 10px !important;
+  font-size: 20px !important;
+}
+
+.vote-avg {
+  color: white;
+  font-size: 30px !important;
+  margin-left: 10px !important;
+}
+
+.poster {
+  width: 100%;
+}
+
+.overview-text {
+  color: white;
+  font-size: 3vh !important;
+}
+
+.top-cast-text {
+  color: lightgrey;
+  margin-top: 1vh !important;
+  font-size: 5vh !important;
+  text-decoration: underline yellow;
+}
+
+.overview-heading {
+  color: lightgrey;
+  margin-top: 1vh !important;
+  font-size: 5vh !important;
+  text-decoration: underline yellow;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 170px;
+}
+
+.cast-card {
+  width: 200px;
+  height: 350px;
+  background-color: lightgrey !important;
+}
+
+.cast-name {
+  font-size: 3vh !important;
+}
+
+.box-office-text {
+  color: white;
+  font-size: 5vh !important;
+  margin-top: 10px !important;
+  text-decoration: underline yellow;
+}
+
+.box-office {
+  color: white;
+  font-size: 3vh !important;
+}
+
+.budget-text {
+  color: white;
+  font-size: 5vh !important;
+  margin-top: 10px !important;
+  margin-right: auto;
+  text-decoration: underline yellow;
+}
+
+.epsiode-text {
+  color: white;
+  font-size: 3vh !important;
+  margin-left: 20px !important;
+}
+
+.streamed-on {
+  color: white;
+  font-size: 2vh !important;
+  margin-left: 20px !important;
+}

@@ -1,0 +1,15 @@
+.top-20-text {
+    color: white;
+    margin-top: 20px !important;
+    font-size: 4vh !important;
+}
+
+.top-10-card {
+    min-width: 220px;
+    height: 450px;
+}
+
+.home-page {
+    width: 90%;
+    margin: auto;
+}

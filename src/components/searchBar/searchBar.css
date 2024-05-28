@@ -1,0 +1,34 @@
+::placeholder{
+    font-size: 20px;
+}
+input {
+    padding-left: 20px !important;
+}
+
+.logo-text {
+    font-size: 30px !important;
+    color: black;
+    text-align: center;
+    font-weight: bolder !important;
+}
+
+.logo-box {
+    background-color: #dba506;
+    width: 80px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.search-bar {
+    background-color: white;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    border-radius: 3px;
+    height: 45px;
+}
+
+.header {
+    justify-content: center;
+    align-items: center;
+}
